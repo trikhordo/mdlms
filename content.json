@@ -1,1 +1,15 @@
-{}
+{
+  "custom-field": "f1",
+  "custom-object": {
+    "custom-line": "o1",
+    "custom-text": "Text-o1"
+  },
+  "custom-list": [
+    {
+      "custom-list-item": "i2"
+    },
+    {
+      "custom-list-item": "i1"
+    }
+  ]
+}
